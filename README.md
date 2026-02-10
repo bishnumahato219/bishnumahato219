@@ -4,9 +4,9 @@
 <h3 align="center">A passionate software engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://digitalroar.ae/wp-content/themes/drs/assets/img/web-development.gif">
 
-- 🔭 I’m currently exploring  : **Web dev | DSA | DBMS | AI**
+- 🔭 I’m currently exploring  : **MERN STACK | DSA | DBMS | AI**
 
-- 🌱 I’m currently learning : **Python | JS**
+- 🌱 I’m currently learning : **Python | React | JS**
 
 - 📫 How to reach me : **bishnumahato219@gmail.com**
 
