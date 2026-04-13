@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bishnumahato219/Demo-01/a5364e3337467db05c3fd2de66203859ada542d9/banner.gif" width="100%" style="border-radius:12px;" />
+  <img src="https://raw.githubusercontent.com/bishnumahato219/Demo-01/e9a6feb6394d98b3ccb57e5e231615db6bf52305/banner.gif" width="100%" style="border-radius:12px;" />
 </p>
-
 
 <h1 align="center">Hi 👋, I'm Bishnu</h1>
 <h3 align="center">A passionate software engineer from India</h3>
